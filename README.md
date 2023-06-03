@@ -18,3 +18,10 @@ In a world where interacting with chatbots can often be an exercise in frustrati
   - Handle requests from the React application and respond with data from the OpenAI API.
 - OpenAI API
   - Utilize the OpenAI API for generating chatbot responses based on user input.
+  - 
+## Demo
+
+![Chatbot Mini Project Demo](https://github.com/jrp9pte/ChatGPT_Clone/raw/main/ChatGPT_Clone_Demo.gif)
+
+Check out the demo of the Chatbot Mini Project in action! See how the chatbot interacts with users, provides accurate responses, and simplifies everyday tasks. Experience the power of AI and the seamless integration of React, Express, and the OpenAI API.
+
